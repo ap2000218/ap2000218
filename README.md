@@ -1,6 +1,9 @@
 # 💫 I will be there whenever you need me:
--Dove into 3D World from the only ages by Unity( from when I was 13 ).<br>-Rich academic and practical experience in FullStack Development.<br>-Engaged in several Frontend projects and brought high performance and user experience.<br>-Many years of developing Backend services.<br>-Blockchain development like NFT, Smart Contracts...
-
+- Began exploring the 3D world with Unity at the age of 13.  
+- Extensive academic and hands-on experience in Full Stack Development.  
+- Worked on multiple Frontend projects, enhancing performance and user experience.  
+- Numerous years of experience in developing Backend services.  
+- Involved in blockchain development, including NFTs and smart contracts.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord-invite-cord) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/my-linkedin-change) 
