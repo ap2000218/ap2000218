@@ -1,6 +1,6 @@
 # 💫 I will be there whenever you need me:
 🎯 <b>10+years experience in Unity, FullStack, and 4+years in blockchain</b>
-- Began exploring the 3D world with Unity at the age of 13( Scan my <i>UnityShaderBase</i> repository).
+- Began exploring the 3D world with Unity at the age of 13( Scan my <i>UnityShaderBase https://github.com/ap2000218/UnityShaderBase</i> repository).
 - Extensive academic and hands-on experience in Full Stack Development.  
 - Worked on multiple Frontend projects, enhancing performance and user experience.  
 - Numerous years of experience in developing Backend services.  
