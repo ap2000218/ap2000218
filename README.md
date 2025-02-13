@@ -1,11 +1,13 @@
 # 💫 I will be there whenever you need me:
+🎯 Backend Developer | API Developer | Technical Writer
+10+years experience in Unity, FullStack, and 4+years in blockchain
 - Began exploring the 3D world with Unity at the age of 13.  
 - Extensive academic and hands-on experience in Full Stack Development.  
 - Worked on multiple Frontend projects, enhancing performance and user experience.  
 - Numerous years of experience in developing Backend services.  
 - Involved in blockchain development, including NFTs and smart contracts.
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord-invite-cord) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/my-linkedin-change) 
 
 # 💻 Tech Stack:
@@ -14,13 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ap2000218&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ap2000218&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ap2000218&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ap2000218&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ap2000218&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ap2000218&icon=9&color=0)](https://visitcount.itsvg.in)
 
