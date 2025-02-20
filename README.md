@@ -7,8 +7,8 @@
 - Involved in blockchain development, including NFTs and smart contracts.
 
 ## 🌐 Let's Connect:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/@tomas43232) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%909021DA.svg?logo=whatsapp&logoColor=white)](https://) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/my-linkedin-change) 
-
+<center>[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/@tomas43232) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%909021DA.svg?logo=whatsapp&logoColor=white)](https://) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/my-linkedin-change) 
+</center>
 # 💻 Tech Stack:
 | **Category**                  | **Technologies** |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
