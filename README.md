@@ -1,10 +1,10 @@
 # 💫 I will be there whenever you need me:
-🎯 <b>10+years experience in Unity, FullStack, and 4+years in blockchain</b>
+🎯 <b>10+years experience in Unity, FullStack, and 7+years in blockchain</b>
 - Began exploring the 3D world with Unity at the age of 13( Scan my <i>UnityShaderBase https://github.com/ap2000218/UnityShaderBase</i> repository).
 - Extensive academic and hands-on experience in Full Stack Development.  
 - Worked on multiple Front-end projects, enhancing performance and user experience.  
 - Numerous years of experience in developing Back-end services.  
-- Involved in blockchain development, including NFTs and smart contracts.
+- Involved in blockchain development, including NFTs and smart contracts, protocol engineering etc.
 
 ## 🌐 Let's Connect:
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/@tomas43232) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%909021DA.svg?logo=whatsapp&logoColor=white)](https://) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/my-linkedin-change) 
